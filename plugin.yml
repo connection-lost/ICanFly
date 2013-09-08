@@ -1,0 +1,17 @@
+name: ICanFly
+main: me.crafter.mc.icanfly.ICanFly
+version: 1.0
+description: >
+             I believe I can fly.
+             
+
+             
+commands:
+   getyp:
+      permission: icf.get
+      usage: |
+         /getyp
+   flyf:
+      permission: icf.flyf
+      usage: |
+         /flyf <vel>
